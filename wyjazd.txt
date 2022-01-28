@@ -1,0 +1,6 @@
+0;0;LipiecZakopane;0,2,3,4
+1;2;SierpienChorwacja;2,3
+2;2;WrzesienKaraiby;2
+3;1;GrudzienTatry;1
+4;2;MarzecEgipt;2
+5;2;LutyNarty;2

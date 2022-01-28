@@ -1,0 +1,6 @@
+0;0;Woda;24;Z;0
+0;2;Piwo;12;NZ;1
+0;3;Chleb;9.50;Z;2
+0;0;Jablka;3;Z;3
+0;2;Jajka;10.5;NZ;4
+0;0;Pociag;120;Z;5
